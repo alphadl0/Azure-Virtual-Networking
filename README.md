@@ -9,9 +9,9 @@ Application Security Groups (ASG)
 Public & Private DNS Zones
 ARM Template Deployment
 
+  This is an overview of the resources 
  <img width="1152" height="340" alt="Overview" src="https://github.com/user-attachments/assets/3cb3346b-346c-46cf-a44c-be2b6768dbc2" />
- This is an overview of the resources 
+
  
-<img width="1490" height="762" alt="architecture" src="https://github.com/user-attachments/assets/56f4aa85-9c9b-4173-b311-9aa8fd72392c" />
-This is the overall architecture
+This is the overall architecture <img width="1490" height="762" alt="architecture" src="https://github.com/user-attachments/assets/56f4aa85-9c9b-4173-b311-9aa8fd72392c" />
 
